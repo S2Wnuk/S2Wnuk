@@ -9,4 +9,4 @@ Student inżynierii „Sztuczna inteligencja w biznesie” (Politechnika Lubelsk
 ### Technologie
 Python · PyTorch · OpenCV · scikit-learn · SQL · Power BI · BPMN
 
-📫 szymonw866@gmail.com · www.linkedin.com//in/szymon2wnuk
+📫 szymonw866@gmail.com · www.linkedin.com/in/szymon2wnuk
